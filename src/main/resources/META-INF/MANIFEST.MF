@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: slack-app-backend-1.16.0.jar jetty-http-9.4.44.v20210927.jar
+  slf4j-api-1.7.32.jar jetty-util-9.4.44.v20210927.jar gson-2.8.9.jar je
+ tty-util-ajax-9.4.44.v20210927.jar okio-2.8.0.jar bolt-jetty-1.16.0.jar
+  bolt-1.16.0.jar slack-api-model-1.16.0.jar slack-api-client-1.16.0.jar
+  jetty-io-9.4.44.v20210927.jar javax.servlet-api-3.1.0.jar kotlin-stdli
+ b-1.4.10.jar annotations-13.0.jar jetty-server-9.4.44.v20210927.jar jet
+ ty-webapp-9.4.44.v20210927.jar kotlin-stdlib-common-1.4.0.jar bolt-serv
+ let-1.16.0.jar jetty-security-9.4.44.v20210927.jar jetty-xml-9.4.44.v20
+ 210927.jar jetty-servlet-9.4.44.v20210927.jar okhttp-4.9.3.jar
+
